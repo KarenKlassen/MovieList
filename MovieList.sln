@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MovieList.WebClient", "MovieList.WebClient\MovieList.WebClient.njsproj", "{D66603F4-E5A1-4BBE-8646-CC5EAA42117C}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "MovieList.Api", "MovieList.Api\MovieList.Api.njsproj", "{5CDA02C2-8196-4E67-95FD-C9128FC4B9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D66603F4-E5A1-4BBE-8646-CC5EAA42117C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66603F4-E5A1-4BBE-8646-CC5EAA42117C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66603F4-E5A1-4BBE-8646-CC5EAA42117C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66603F4-E5A1-4BBE-8646-CC5EAA42117C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CDA02C2-8196-4E67-95FD-C9128FC4B9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CDA02C2-8196-4E67-95FD-C9128FC4B9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CDA02C2-8196-4E67-95FD-C9128FC4B9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CDA02C2-8196-4E67-95FD-C9128FC4B9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B980BA74-1B7E-407E-9D30-33DD48A7B740}
+	EndGlobalSection
+EndGlobal

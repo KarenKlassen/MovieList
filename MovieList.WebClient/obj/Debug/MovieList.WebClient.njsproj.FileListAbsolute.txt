@@ -1,0 +1,3 @@
+C:\Projects\MovieList\MovieList.WebClient\obj\Debug\MovieList.WebClient.njsprojAssemblyReference.cache
+C:\Projects\MovieList\MovieList.WebClient\obj\Debug\MovieList.WebClient.njsproj.CoreCompileInputs.cache
+C:\Projects\MovieList\MovieList.WebClient\bin\Microsoft.NodejsTools.WebRole.dll

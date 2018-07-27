@@ -1,0 +1,109 @@
+html {
+    background-color: black;
+    height: 100%;
+}
+
+h2 {
+    color: yellow;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3em;
+    text-shadow: 2px 2px red;
+}
+
+.pt-list-container {
+    background-color: white;
+    width: 75%;
+    margin: auto;
+    list-style-type: none;
+    border: solid 20px darkred;
+    border-radius: 10px;
+    padding: 0px;
+}
+
+li {
+    padding: 5px;
+    border-bottom: 1px solid lightgrey;
+    text-indent: 100px;
+}
+
+.pt-movie {
+    text-transform: uppercase;
+    color: black;
+    font-family: Impact;
+    text-decoration: none;
+    font-size: 1.5em;
+}
+
+.pt-movie:hover {
+    color: red;
+}
+
+button {
+    background-color: gold;
+    border: solid gold;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: white;
+    border: gold solid;
+}
+
+.pt-name {
+    text-transform: uppercase;
+    color: black;
+    font-family: Impact;
+    text-decoration: none;
+    font-size: 1.25em;
+}
+
+.pt-comment {
+    color: darkred;
+    margin: 20px;
+}
+
+.pt-dialog {
+    background-color: white;
+    margin: auto;
+    border-radius: 5px;
+    width: 50%;
+    padding-bottom: 5px;
+}
+
+.pt-dialog-header {
+    border-radius: 5px 5px 0px 0px;
+    background-color: lightgray;
+    padding-left: 5px;
+    display: flex;
+}
+
+.pt-dialog-header-title {
+    width: 50%;
+    flex: 1 1 auto;
+    margin: 0;
+}
+
+h5 {
+    text-transform: uppercase;
+    font-size: 1.5em;
+}
+
+.pt-dialog-close-button {
+    padding: 10px;
+    flex: 0 0 auto;
+    background: url(./close.PNG);
+    border: none;
+    border-radius: 2px 5px 2px 2px;
+}
+
+.pt-input {
+    color: darkred;
+    margin: 20px;
+}
+
+.pt-dialog-button {
+    margin: 10px;
+}

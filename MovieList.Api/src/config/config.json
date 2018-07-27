@@ -1,0 +1,18 @@
+{
+    "settings": {
+        "development": {
+            "applicationURL": "http://localhost:3000/movie",
+            "baseRouterPath": "/api",
+            "baseURL": "localhost",
+            "movieDB": {
+                "username": "MovieApp",
+                "password": "Linamar1",
+                "database": "LearningReact",
+                "host": "localhost",
+                "dialect": "mssql",
+                "dialectOptions": { "requestTimeout": 0 }
+            },
+            "port": "1337"
+        }
+    }
+}

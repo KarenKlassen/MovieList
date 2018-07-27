@@ -1,0 +1,10 @@
+{
+    "env": "LOCAL",
+    "settings": {
+        "LOCAL": {
+            "baseRoutePath": "/api",
+            "port": "1337",
+            "baseURL": "http://localhost"
+        }
+    }
+}

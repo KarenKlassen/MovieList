@@ -1,0 +1,26 @@
+{
+  "name": "movie-list.api",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "description": "MovieList.Api",
+  "main": "app.js",
+  "author": {
+    "name": "KKlassen"
+  },
+  "devDependencies": {
+    "@types/express": "4.16.0",
+    "@types/express-validator": "3.0.0",
+    "@types/node": "^6.0.87"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0",
+    "morgan": "^1.9.0",
+    "sequelize": "^4.38.0",
+    "tedious": "^2.6.3"
+  }
+}
